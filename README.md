@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey 
 
-<!--
-**nalauraruy5/nalauraruy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my profile :blue_heart
 
-Here are some ideas to get you started:
+My name is Ana Laura Morais Ruy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm studying at [Alura](https://www.alura.com.br)
+- I am developing in the JavaScript language
+- I use this space to organize and share my developed projects
+
+### You can contact me :mailbox
+
+analauramorais05040@gmail.com
+
+@analauraruy
+
+![GIF description](Tenor GIF link)
+ 
+ 
